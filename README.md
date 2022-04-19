@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Matheus Fernando Golmini</h1>
+<h1 align="center">Hi 👋,I'm Matheus Fernando Golmini✨</h1>
+<!-- <h3 align="center"> I ❤️ Code</h3> -->
 <h3 align="center">Software Engineer</h3>
 
+- I ❤️ Code
 - 🌱 I’m currently learning **DDD** and **Dart/Flutter**
 - 🔭 I’m currently working on [Invillia](https://invillia.com/hellostrangers/?gclid=CjwKCAiAsNKQBhAPEiwAB-I5ze-raxplO3VvxH93LdPzUTXGHmpzTmFUirvVsxuEHQCNb__VMQsHrxoCb28QAvD_BwE)
 
