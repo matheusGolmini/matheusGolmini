@@ -4,7 +4,7 @@
 
 - I ❤️ Code
 - 🌱 I’m currently learning **DDD** and **Dart/Flutter**
-- 🔭 I’m currently working on [MoutsTI](https://www.mouts.info/))
+- 🔭 I’m currently working on [MoutsTI](https://www.mouts.info/)
 
 ## **GitHub Statistics**
 
